@@ -1,0 +1,10 @@
+D:\Repositories\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+D:\Repositories\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+D:\Repositories\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.MineSweeper.resources
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+D:\Repositories\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
